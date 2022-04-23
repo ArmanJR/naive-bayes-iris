@@ -1,4 +1,4 @@
-# naive-bayes-iris
+# Naive Bayes Iris
 Applying Naive Bayes classifier on Iris flower dataset
 
 ## Naive Bayes
